@@ -47,5 +47,5 @@ CREATE TABLE `user` (
 -- Records of user
 -- ----------------------------
 INSERT INTO user VALUES ('9', 'admin', 'admin', '30', '1');
-INSERT INTO user VALUES ('37', 'boya', 'boya', '23', '2');
-INSERT INTO user VALUES ('38', 'test2', 'test', '33', '1');
+INSERT INTO user VALUES ('37', 'lee', 'lee', '23', '2');
+INSERT INTO user VALUES ('38', 'user', 'user', '33', '1');
